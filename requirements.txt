@@ -1,7 +1,7 @@
 # V1.1 default inference environment with MediaPipe preprocessing.
 # Install a CUDA-compatible torch/torchvision build separately.
 diffusers==0.36.0
-transformers==5.1.0
+transformers==5.10.1
 safetensors==0.7.0
 sentencepiece==0.2.1
 protobuf==4.25.8
