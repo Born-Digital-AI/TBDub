@@ -17,8 +17,6 @@ checkpoints/*
 
 results/
 outputs/
-*.mp4
-*.wav
 *.npy
 *.pkl
 *.log
